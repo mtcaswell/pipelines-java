@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/rnavarro0504/DEMO%20-%20ERP%20Tech%20Practice/_apis/build/status/mtcaswell.pipelines-java?branchName=master)](https://dev.azure.com/rnavarro0504/DEMO%20-%20ERP%20Tech%20Practice/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
